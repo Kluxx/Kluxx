@@ -1,10 +1,16 @@
 ![Header](https://github.com/Kluxx/Kluxx/blob/main/assets/header.gif)
 
-About me
+## I'm a beginner Software Engeneer
 
 Latest work
 
-Languages and Tools
+### Languages and Tools
+![Python](https://img.shields.io/badge/-Python-121211?style=for-the-badge&logo=python&logoColor=fff829)
+![SQL](https://img.shields.io/badge/-sql-121211?style=for-the-badge&logo=mysql&logoColor=fff829)
+
+### I'm currently learning
+![JS](https://img.shields.io/badge/-JavaScript-121211?style=for-the-badge&logo=javascript&logoColor=fff829)
+![Java](https://img.shields.io/badge/-Java-121211?style=for-the-badge&logo=java&logoColor=fff829)
 
 Follow Me
 
