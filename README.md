@@ -4,6 +4,8 @@
 
 ## Latest YouTube video
 <!-- YouTube:START -->
+- [гамбитрп | машины | фри вип](https://www.youtube.com/watch?v=xPZFoPm0kaI)
+- [будни гамбита](https://www.youtube.com/watch?v=tbIP0nvn2Gw)
 <!-- YouTube:END -->
 
 ### Languages and Tools
