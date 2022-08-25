@@ -3,10 +3,7 @@
 ## I'm a beginner Software Engeneer
 
 ## Latest YouTube video
-<!-- youtube:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xPZFoPm0kaI"><img width="140px" src="https://i.ytimg.com/vi/xPZFoPm0kaI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xPZFoPm0kaI">гамбитрп | машины | фри вип</a><br/>Jul 27, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tbIP0nvn2Gw"><img width="140px" src="https://i.ytimg.com/vi/tbIP0nvn2Gw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tbIP0nvn2Gw">будни гамбита</a><br/>Apr 16, 2022</td></tr></table>
+<!-- youtube:START -->
 <!-- youtube:END -->
 
 ### Languages and Tools
