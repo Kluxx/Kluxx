@@ -5,8 +5,8 @@
 Latest work
 
 ### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-121211?style=for-the-badge&logo=python&logoColor=fff829)
-![SQL](https://img.shields.io/badge/-sql-121211?style=for-the-badge&logo=mysql&logoColor=fff829)
+![Python](https://img.shields.io/badge/-Python-121211?style=for-the-badge&logo=python&logoColor=4960f5)
+![SQL](https://img.shields.io/badge/-sql-121211?style=for-the-badge&logo=mysql&logoColor=e08a12)
 
 ### I'm currently learning
 ![JS](https://img.shields.io/badge/-JavaScript-121211?style=for-the-badge&logo=javascript&logoColor=fff829)
