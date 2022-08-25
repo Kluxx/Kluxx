@@ -12,7 +12,11 @@ Latest work
 ![JS](https://img.shields.io/badge/-JavaScript-121211?style=for-the-badge&logo=javascript&logoColor=fff829)
 ![Java](https://img.shields.io/badge/-Java-121211?style=for-the-badge&logo=java&logoColor=fff829)
 
-Follow Me
+### Follow Me
+
+[![YouTube](https://img.shields.io/badge/-YouTube-121211?style=for-the-badge&logo=youtube&logoColor=f52a2a)](https://www.youtube.com/channel/UC7HYdLEM6CF77Aj4W17JqNA)
+[![VK](https://img.shields.io/badge/-VK-121211?style=for-the-badge&logo=vk&logoColor=666fd1)](https://vk.com/aikytr)
+
 
 <!--
 **Kluxx/Kluxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
