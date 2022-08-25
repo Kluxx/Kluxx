@@ -21,4 +21,4 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-121211?style=for-the-badge&logo=youtube&logoColor=f52a2a)](https://www.youtube.com/channel/UC7HYdLEM6CF77Aj4W17JqNA)
 [![VK](https://img.shields.io/badge/-VK-121211?style=for-the-badge&logo=vk&logoColor=666fd1)](https://vk.com/aikytr)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kluxx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kluxx&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
