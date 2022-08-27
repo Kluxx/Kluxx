@@ -4,8 +4,7 @@
 
 ## Latest YouTube video
 <!-- YouTube:START -->
-- [гамбитрп | машины | фри вип](https://www.youtube.com/watch?v=xPZFoPm0kaI)
-- [будни гамбита](https://www.youtube.com/watch?v=tbIP0nvn2Gw)
+- [AdminMode | Minecraft plugin showcase](https://www.youtube.com/watch?v=W-NiR-4QorE)
 <!-- YouTube:END -->
 
 ### Languages and Tools
