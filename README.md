@@ -4,6 +4,7 @@
 
 ## Latest YouTube video
 <!-- YouTube:START -->
+- [типичный день на гамбите](https://www.youtube.com/watch?v=KYWqMe_FKio)
 - [AdminMode | Minecraft plugin showcase](https://www.youtube.com/watch?v=W-NiR-4QorE)
 <!-- YouTube:END -->
 
