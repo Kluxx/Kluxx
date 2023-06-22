@@ -5,6 +5,8 @@
 ## Latest YouTube video
 <!-- YouTube:START -->
 - [типичный день на гамбите](https://www.youtube.com/watch?v=KYWqMe_FKio)
+- [🏆ОЦЕНКА , ПИАР 🏆 💲ИГРАЕМ В МАЙНКРАФТ💲 🔔СМОТРИМ ВИДОСИКИ🔔 🔔СТРИМ🔔](https://www.youtube.com/watch?v=PUoTfqEQYS8)
+- [Прямая трансляция пользователя Amaterasu](https://www.youtube.com/watch?v=mSzmpOrPWPs)
 <!-- YouTube:END -->
 
 ### Languages and Tools
