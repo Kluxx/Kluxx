@@ -4,6 +4,7 @@
 
 ## Latest YouTube video
 <!-- YouTube:START -->
+- [как мы с друзьями Lethal Company покоряли](https://www.youtube.com/watch?v=2kVDJ1b-NwI)
 - [ЕТС Подборка смешных ДТП!](https://www.youtube.com/watch?v=MCdDYmuStL0)
 - [типичный день на гамбите](https://www.youtube.com/watch?v=KYWqMe_FKio)
 - [🏆ОЦЕНКА , ПИАР 🏆 💲ИГРАЕМ В МАЙНКРАФТ💲 🔔СМОТРИМ ВИДОСИКИ🔔 🔔СТРИМ🔔](https://www.youtube.com/watch?v=PUoTfqEQYS8)
