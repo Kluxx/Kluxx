@@ -4,11 +4,11 @@
 
 ## Latest YouTube video
 <!-- YouTube:START -->
+- [Klux в прямом эфире!](https://www.youtube.com/watch?v=xFdbs2G8r00)
 - [как мы с друзьями Lethal Company покоряли](https://www.youtube.com/watch?v=2kVDJ1b-NwI)
 - [ЕТС Подборка смешных ДТП!](https://www.youtube.com/watch?v=MCdDYmuStL0)
 - [типичный день на гамбите](https://www.youtube.com/watch?v=KYWqMe_FKio)
 - [🏆ОЦЕНКА , ПИАР 🏆 💲ИГРАЕМ В МАЙНКРАФТ💲 🔔СМОТРИМ ВИДОСИКИ🔔 🔔СТРИМ🔔](https://www.youtube.com/watch?v=PUoTfqEQYS8)
-- [Прямая трансляция пользователя Amaterasu](https://www.youtube.com/watch?v=mSzmpOrPWPs)
 <!-- YouTube:END -->
 
 ### Languages and Tools
